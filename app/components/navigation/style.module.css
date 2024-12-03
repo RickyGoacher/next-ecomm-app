@@ -1,0 +1,22 @@
+.navigation {
+    width: 100%;
+    min-height: 60px;
+    padding-left: var(--medium-spacing);
+    padding-right: var(--medium-spacing);
+    background-color: var(--colour-primary);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navigation-list {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.navigation-item {
+    color: var(--colour-white);
+    text-transform: capitalize;
+}

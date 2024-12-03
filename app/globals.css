@@ -1,6 +1,11 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --colour-primary: blue;
+  --colour-white: #ffffff;
+  --small-spacing: 12px;
+  --medium-spacing: 24px;
+  --large-spacing: 48px;
 }
 
 @media (prefers-color-scheme: dark) {
